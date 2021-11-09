@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muszchrom
-- 👀 I’m interested in learning programming
+- 👀 I’m currently interested in React
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on tbh I'm not sure yet
+- 💞️ I’m not looking to collaborate yet
 - 📫 How to reach me ...
 
 <!---
